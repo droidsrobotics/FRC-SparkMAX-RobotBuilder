@@ -1,6 +1,8 @@
 # Spark MAX extension for Robot Builder
 
-This will add the Spark MAX controller to the Robot Builder menu. This only works for exporting to Java currently. If you add in the C++ code, feel free to send us a pull request.
+This will add the Spark MAX controller to the Robot Builder menu. This works for Java and C++.
+
+The C++ code is from dravis on https://www.chiefdelphi.com/t/sparkmax-in-robotbuilder/340923/5.
 
 To install (in Windows Command Prompt or Linux/Mac OS X Terminal:
 
