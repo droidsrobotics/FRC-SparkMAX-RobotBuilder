@@ -1,5 +1,5 @@
-Talon SRX:
+Spark MAX:
   Defaults: "Component,None"
-  ClassName: "WPI_TalonSRX"
-  Construction: "#variable($Name).reset(new ${ClassName}($CAN_ID));"
-  Import: "\\#include \"ctre/Phoenix.h\""
+  ClassName: "HELP"
+  Construction: "NEED COMPLETION"
+  Import: "\\#include \"ctre/help.h\""
