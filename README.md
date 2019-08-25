@@ -7,7 +7,7 @@ The C++ code is from dravis on https://www.chiefdelphi.com/t/sparkmax-in-robotbu
 To install (in Windows Command Prompt or Linux/Mac OS X Terminal:
 
 ```
-git clone https://github.com/droidsrobotics/FRC-SparkMAX-RobotBuilder.git
+git clone https://github.com/sanjayseshan/FRC-SparkMAX-RobotBuilder.git
 cd FRC-SparkMAX-RobotBuilder
 
 On Windows:
